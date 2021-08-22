@@ -1,7 +1,7 @@
 const predefinedCharacters = [
     {
-        name: "Gimli",
-        gender: "male",
+        name: "Payal",
+        gender: "Female",
         className: "warrior",
         avatar: "MALE1",
         lvl: 4,
